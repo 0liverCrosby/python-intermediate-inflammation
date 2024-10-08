@@ -1,4 +1,5 @@
 # Introduction
+[![CI](https://github.com/0liverCrosby/python-intermediate-inflammation/actions/workflows/main.yml/badge.svg)](https://github.com/0liverCrosby/python-intermediate-inflammation/actions/workflows/main.yml)
 
 This is a template software project repository used by the [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development).
 
